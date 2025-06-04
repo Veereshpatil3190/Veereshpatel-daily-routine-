@@ -1,0 +1,35 @@
+START
+  ↓
+Learn Basics of Terraform
+  ↓
+Set Up AWS Infrastructure → Install Terraform CLI, configure AWS credentials
+  ↓
+Write Basic Terraform Config → Provision EC2, S3, VPC using Terraform
+  ↓
+Explore Terraform Modules → Use pre-built modules (e.g., VPC, EKS)
+  ↓
+Deploy Full AWS Infrastructure → Build VPC, EC2, RDS, S3 with Terraform
+  ↓
+Learn Basics of AI/ML → Neural networks, transformers, GANs
+  ↓
+Set Up Environment for AI → Install Python, TensorFlow, PyTorch, Hugging Face
+  ↓
+Explore Pre-trained Models → GPT, Stable Diffusion, etc.
+  ↓
+Develop Simple Generative AI Project → Text generation (GPT models)
+  ↓
+Fine-tune Generative AI Models → Customize GPT for domain-specific tasks
+  ↓
+Deploy AI Models on AWS → Host models using SageMaker or Lambda
+  ↓
+Integrate Terraform and Generative AI → Scale AI models with Terraform infrastructure
+  ↓
+Complete Practical Projects:
+  ↘︎ Multi-tier Architecture (AWS Terraform)
+  ↘︎ Serverless Application (AWS Terraform)
+  ↘︎ Kubernetes Cluster (AWS Terraform)
+  ↘︎ AI Chatbot (Generative AI)
+  ↘︎ Text-to-Image AI (Generative AI)
+  ↘︎ AI Recommendation System (Generative AI)
+  ↓
+END
